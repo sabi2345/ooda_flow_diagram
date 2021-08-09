@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "ooda_flow_diagram"
+version = "0.1.0"
+description = "This supports OODA Loop project."
+authors = ["sabi234"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+graphviz = ">=0.13.2,<0.17.0"
+
+[tool.poetry.dev-dependencies]
+pytest = "^6.2"
+pylint = "^2.4"
+black = {version = "^19.0", allow-prereleases = true}
+rope = "^0.14.0"
+isort = "^4.3"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
