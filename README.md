@@ -13,7 +13,7 @@ I'm a data scientist, so I have especially focused on data science projects and 
 
 The OODA loop is the cycle observe–orient–decide–act, developed by military strategist and United States Air Force Colonel John Boyd. Boyd applied the concept to the combat operations process, often at the operational level during military campaigns. It is now also often applied to understand commercial operations and learning processes. 
 
-![OODA.Boyd](img/OODA Flow Diagram/OODA.Boyd.svg)
+![OODA.Boyd](img/OODA.Boyd.svg)
 
 ## Concept and Basic Steps
 
@@ -29,7 +29,9 @@ For example:
 * Input data 
 * Dead line
 
-<img src="https://github.com/sabi2345/ooda_flow_diagram/tree/main/img/OODA%20Flow%20Diagram/image-20210725155727733.png" alt="image-20210725155727733" width="320px" />
+<img src="https://github.com/sabi2345/ooda_flow_diagram/tree/main/img/image-20210725155727733.png" alt="image-20210725155727733" width="320px" />
+
+
 
 
 
