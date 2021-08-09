@@ -29,7 +29,7 @@ For example:
 * Input data 
 * Dead line
 
-<img src="https://github.com/sabi2345/ooda_flow_diagram/tree/main/img/image-20210725155727733.png" alt="image-20210725155727733" width="320px" />
+<img src="https://github.com/sabi2345/ooda_flow_diagram/blob/main/img/image-20210725155727733.png" alt="image-20210725155727733" width="320px" />
 
 
 
@@ -41,13 +41,17 @@ For example:
 
 `Cluster` makes easier to see this loop unit in the flow diagram.
 
-<img src="https://github.com/sabi2345/ooda_flow_diagram/tree/main/img/image-20210725155758731.png" alt="image-20210725155758731" width="320px"/>
+<img src="https://github.com/sabi2345/ooda_flow_diagram/blob/main/img/image-20210725155758731.png" alt="image-20210725155758731" width="320px"/>
 
 #### Set Small Target / First Step
 
 It is difficult to suddenly achieve the major target, so it is divided into smaller goals, and determine the first step. That is the first small Target. `Target` of the flow diagram is used to show it.
 
-<img src="https://github.com/sabi2345/ooda_flow_diagram/tree/main/img/image-20210725155858004.png" alt="image-20210725155858004" width="320px" />
+<img src="https://github.com/sabi2345/ooda_flow_diagram/blob/main/img/image-20210725155858004.png" alt="image-20210725155858004" width="320px" />
+
+
+
+
 
 #### Observe - Orient - Decide(OOD)
 
