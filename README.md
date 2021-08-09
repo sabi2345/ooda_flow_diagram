@@ -67,7 +67,7 @@ By clarifying them, Act phase will proceed smoothly.
 
 Notes: It's not necessary to record what you did in this OOD phase, the above factors are important.
 
-<img src="https://github.com/sabi2345/ooda_flow_diagram/tree/main/img/image-20210725155921389.png" alt="image-20210725155921389" width="320px" />
+<img src="https://github.com/sabi2345/ooda_flow_diagram/blob/main/img/image-20210725155921389.png" alt="image-20210725155921389" width="320px" />
 
 #### Act
 
@@ -88,7 +88,7 @@ For Example:
 * Final Outputs
 * Whether the small target is achieved or not.
 
-<img src="https://github.com/sabi2345/ooda_flow_diagram/tree/main/img/image-20210725160342479.png" alt="image-20210725160342479" width="320px" />
+<img src="https://github.com/sabi2345/ooda_flow_diagram/blob/main/img/image-20210725160342479.png" alt="image-20210725160342479" width="320px" />
 
 ### Next & Repeat OODA Loop 
 
@@ -117,7 +117,7 @@ major_target = MajorTarget(
 
 ```
 
-<img src="https://github.com/sabi2345/ooda_flow_diagram/tree/main/img/image-20210725161048155.png" alt="image-20210725161048155" width="320px" />
+<img src="https://github.com/sabi2345/ooda_flow_diagram/blob/main/img/image-20210725161048155.png" alt="image-20210725161048155" width="320px" />
 
 | parameter   | type                     | required | default        | detail                                                       |
 | ----------- | ------------------------ | -------- | -------------- | ------------------------------------------------------------ |
@@ -132,7 +132,7 @@ major_target = MajorTarget(
 firs_target = Target(label="Select the first and simple features, and binary classify.")
 ```
 
-<img src="https://github.com/sabi2345/ooda_flow_diagram/tree/main/img/image-20210725162319293.png" alt="image-20210725162319293" width="320px" />
+<img src="https://github.com/sabi2345/ooda_flow_diagram/blob/main/img/image-20210725162319293.png" alt="image-20210725162319293" width="320px" />
 
 Parameters are the same as the above Major Target.
 
@@ -145,7 +145,7 @@ histgram1 = ActTable(
     output="selected 8 features", completed_date="6/22")
 ```
 
-<img src="https://github.com/sabi2345/ooda_flow_diagram/tree/main/img/image-20210725162545774.png" alt="image-20210725162545774" width="320px" />
+<img src="https://github.com/sabi2345/ooda_flow_diagram/blob/main/img/image-20210725162545774.png" alt="image-20210725162545774" width="320px" />
 
 | parameter   | type                     | required | default | detail                                                       |
 | ----------- | ------------------------ | -------- | ------- | ------------------------------------------------------------ |
@@ -167,7 +167,7 @@ histgram1 = ActTable(
 first_result = Result(label="First accuracy is accuracies_01.xls. That is not enough.")
 ```
 
-<img src="https://github.com/sabi2345/ooda_flow_diagram/tree/main/img/image-20210725170331148.png" alt="image-20210725170331148" width="320px" />
+<img src="https://github.com/sabi2345/ooda_flow_diagram/blob/main/img/image-20210725170331148.png" alt="image-20210725170331148" width="320px" />
 
 Parameters are the same as the above Major Target.
 
