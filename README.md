@@ -1,5 +1,17 @@
 # OODA Flow Diagram
 
+## Overview
+
+This allows you to draw flow diagram for OODA Loop projects.
+
+## Installation
+
+```
+$ pip install ooda-flow-diagram
+```
+
+
+
 ## Background & Purpose
 
 OODA loop is a great management tool of projects on cyber security, data science, research and others. However, as the project progressed, in many cases, the main purpose might be lost or the history of the project was forgotten between those members. Therefore, in order to solve these issues, I designed "OODA Flow Diagram."
@@ -13,7 +25,7 @@ I'm a data scientist, so I have especially focused on data science projects and 
 
 The OODA loop is the cycle observe–orient–decide–act, developed by military strategist and United States Air Force Colonel John Boyd. Boyd applied the concept to the combat operations process, often at the operational level during military campaigns. It is now also often applied to understand commercial operations and learning processes. 
 
-![OODA.Boyd](img/OODA.Boyd.svg)
+![OODA.Boyd](https://github.com/sabi2345/ooda_flow_diagram/blob/main/img/OODA.Boyd.svg)
 
 ## Concept and Basic Steps
 
@@ -29,7 +41,7 @@ For example:
 * Input data 
 * Dead line
 
-<img src="https://github.com/sabi2345/ooda_flow_diagram/blob/main/img/image-20210725155727733.png" alt="image-20210725155727733" width="320px" />
+<img src="https://github.com/sabi2345/ooda_flow_diagram/blob/main/img/image-20210725155758731.png" alt="image-20210725155758731" width="320px"/>
 
 
 
@@ -48,10 +60,6 @@ For example:
 It is difficult to suddenly achieve the major target, so it is divided into smaller goals, and determine the first step. That is the first small Target. `Target` of the flow diagram is used to show it.
 
 <img src="https://github.com/sabi2345/ooda_flow_diagram/blob/main/img/image-20210725155858004.png" alt="image-20210725155858004" width="320px" />
-
-
-
-
 
 #### Observe - Orient - Decide(OOD)
 
@@ -98,13 +106,7 @@ After achieving the previous target, set the next small target and run the OODA 
 
 ## OODA Flow Diagrams as Code
 
-This codes is the folk of Diagrams. OODA Flow Diagrams as Code let you draw the flow diagram in Python code.
-
-### Getting Started
-
-
-
-
+This codes is the folk of [Diagrams](https://github.com/mingrammer/diagrams). OODA Flow Diagrams as Code let you draw the flow diagram in Python code.
 
 ### Diagram Nodes
 

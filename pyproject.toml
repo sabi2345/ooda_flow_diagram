@@ -3,13 +3,13 @@ name = "ooda_flow_diagram"
 version = "0.1.0"
 description = "This supports OODA Loop project."
 authors = ["sabi2345"]
-readme = "README.rst"
+readme = "README.md"
 license = "MIT"
 repository = "https://github.com/sabi2345/ooda_flow_diagram"
 
 [tool.poetry.dependencies]
 python = "^3.8"
-graphviz = ">=0.13.2,<0.17.0"
+graphviz = "^0.16"
 
 [tool.poetry.dev-dependencies]
 pytest = "^6.2"
